@@ -3,4 +3,4 @@
 3.+ added command FileSize,SetDataFile off/auto/force
 4.* solved the false alarm with avira antivirus
 5.- removed solid compression support,I need time to add full support to it.
-6.- removed bzip2/zip compression support, mainly for easy compiling. You can add them back easyly.
+6.- removed bzip2/zip compression support, mainly for easy compiling. You can add them back easily.
