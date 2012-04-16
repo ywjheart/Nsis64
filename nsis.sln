@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "makensis", "Source\makensis.vcproj", "{AF755BC5-08D3-42D0-9C19-572B6D836210}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stub", "Source\exehead\stub.vcproj", "{FFA4BFE5-04DB-42FC-B967-A143C38DD352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF755BC5-08D3-42D0-9C19-572B6D836210}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF755BC5-08D3-42D0-9C19-572B6D836210}.Debug|Win32.Build.0 = Debug|Win32
+		{AF755BC5-08D3-42D0-9C19-572B6D836210}.Release|Win32.ActiveCfg = Release|Win32
+		{AF755BC5-08D3-42D0-9C19-572B6D836210}.Release|Win32.Build.0 = Release|Win32
+		{FFA4BFE5-04DB-42FC-B967-A143C38DD352}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFA4BFE5-04DB-42FC-B967-A143C38DD352}.Debug|Win32.Build.0 = Debug|Win32
+		{FFA4BFE5-04DB-42FC-B967-A143C38DD352}.Release|Win32.ActiveCfg = Release|Win32
+		{FFA4BFE5-04DB-42FC-B967-A143C38DD352}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
