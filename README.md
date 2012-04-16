@@ -1,6 +1,1 @@
-1.+ added 64bit offset support, single installer size can be up to 4GB
-2.+ added data file support,and it can be multi data file
-3.+ added command FileSize,SetDataFile off/auto/force
-4.* solved the false alarm with avira antivirus
-5.- removed solid compression support,I need time to add full support to it.
-6.- removed bzip2/zip compression support, mainly for easy compiling. You can add them back easily.
+<html><body ><div class="Section0"><p class=p0><span>1.+&nbsp;added&nbsp;64bit&nbsp;offset&nbsp;support,&nbsp;single&nbsp;installer&nbsp;size&nbsp;can&nbsp;be&nbsp;up&nbsp;to&nbsp;4GB</span><span></span></p><p class=p0><span>2.+&nbsp;added&nbsp;data&nbsp;file&nbsp;support,and&nbsp;it&nbsp;can&nbsp;be&nbsp;multi&nbsp;data&nbsp;file</span><span></span></p><p><span>3.+&nbsp;added&nbsp;command&nbsp;FileSize,SetDataFile&nbsp;off/auto/force</span><span></span></p><p class=p0><span>4.*&nbsp;solved&nbsp;the&nbsp;false&nbsp;alarm&nbsp;with&nbsp;avira&nbsp;antivirus</span><span></span></p><p class=p0 >5.-&nbsp;removed&nbsp;solid&nbsp;compression&nbsp;support,I&nbsp;need&nbsp;time&nbsp;to&nbsp;add&nbsp;full&nbsp;support&nbsp;to&nbsp;it.</span><span></span></p><p class=p0><span>6.-&nbsp;removed&nbsp;bzip2/zip&nbsp;compression&nbsp;support,&nbsp;mainly&nbsp;for&nbsp;easy&nbsp;compiling.&nbsp;You&nbsp;can&nbsp;add&nbsp;them&nbsp;back&nbsp;easily.</span><span></span></p></div></body></html>
